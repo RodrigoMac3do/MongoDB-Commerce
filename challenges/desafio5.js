@@ -18,5 +18,5 @@ db.produtos.find(
     vendidos: 1,
     curtidas: 1,
     _id: 0,
-  }
+  },
 );
